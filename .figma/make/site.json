@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered healthcare platform connecting patients with doctors and hospitals, offering symptom checking, appointment booking, medical record management, emergency coordination and health monitoring in one integrated ecosystem.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
